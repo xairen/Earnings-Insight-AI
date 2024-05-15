@@ -16,7 +16,7 @@ def extract_text_from_pdf(path):
     return text
 
 
-if __name__ == "__main__":
-    pdf_path = "data\input\Amazon-Q4_2023_Transcript.pdf"
-    extracted_text = extract_text_from_pdf(pdf_path)
-    print(extracted_text)
+# if __name__ == "__main__":
+#     pdf_path = "data\input\Amazon-Q4_2023_Transcript.pdf"
+#     extracted_text = extract_text_from_pdf(pdf_path)
+#     print(extracted_text)
